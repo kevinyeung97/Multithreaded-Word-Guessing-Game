@@ -1,0 +1,6 @@
+ServerHostname=localhost
+ServerPort=6789
+DBConnection=jdbc:mysql://localhost:3306/Assignment4
+DBUsername=<insert your DB username here>
+DBPassword=<insert your DB password here>
+SecretWordFile=hangmanwords.txt
